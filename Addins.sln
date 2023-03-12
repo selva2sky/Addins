@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAddIn", "OutlookAddIn\OutlookAddIn.csproj", "{3EEE0055-3BFD-4F09-A178-D0F16646BE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn", "ExcelAddIn\ExcelAddIn.csproj", "{EB9E8DA3-F3DD-43D9-B9E7-45F6A967EAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordAddIn", "WordAddIn\WordAddIn.csproj", "{6DFD7E3E-C654-454B-9D72-9EBD8D589B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEE0055-3BFD-4F09-A178-D0F16646BE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEE0055-3BFD-4F09-A178-D0F16646BE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEE0055-3BFD-4F09-A178-D0F16646BE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEE0055-3BFD-4F09-A178-D0F16646BE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9E8DA3-F3DD-43D9-B9E7-45F6A967EAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9E8DA3-F3DD-43D9-B9E7-45F6A967EAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9E8DA3-F3DD-43D9-B9E7-45F6A967EAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9E8DA3-F3DD-43D9-B9E7-45F6A967EAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFD7E3E-C654-454B-9D72-9EBD8D589B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFD7E3E-C654-454B-9D72-9EBD8D589B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFD7E3E-C654-454B-9D72-9EBD8D589B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFD7E3E-C654-454B-9D72-9EBD8D589B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E01735A8-CAAE-49F1-9814-59FA64AA9FC1}
+	EndGlobalSection
+EndGlobal

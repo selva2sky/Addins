@@ -1,0 +1,16 @@
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\Ribbon1.resx
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\Ribbon1.cs
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\Ribbon1.Designer.cs
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\WordAddIn.dll
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\WordAddIn.pdb
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\WordAddIn.dll.manifest
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\WordAddIn.vsto
+D:\Learning\Workspace\Addins\WordAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.csproj.AssemblyReference.cache
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.Properties.Resources.resources
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.Ribbon1.resources
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.csproj.GenerateResource.cache
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.csproj.CoreCompileInputs.cache
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.csproj.CopyComplete
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.dll
+D:\Learning\Workspace\Addins\WordAddIn\obj\Debug\WordAddIn.pdb
